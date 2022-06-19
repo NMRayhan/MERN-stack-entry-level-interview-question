@@ -92,3 +92,28 @@ Different between Flex and grid layout system:</br>
 - Relative position element taking space but absolute position not taking space
 - Relative position not changing parent layout but absolute position changing parent layput
 - Relative position no need to any parent element but absolute position need to be any element in relative parent.
+
+
+### 17. What is a box model? And what are the different elements of a box model?
+**Ans:** Box model is box sizing any content, it’s overall element padding, margin, border, width and content mixing.
+Every box is composed of four parts (or areas), defined by their respective edges: the content edge, padding edge, border edge, and margin edge
+
+### 18. What is a Hover effect? What is the purpose of the active class?
+**Ans:** Hover effect is pseudo class, it is used for if we mouse over any element then we customisable change showing this element and its call hover effect.
+Some of the web site we saw that which page we stay if we see navbar and then show the active navbar it's happened because of active class pseudo class.
+
+### 19 What is pseudo-class? 
+**Ans:** CSS pseudo-class is a selector, only when the selector meets a certain condition. It’s starting colon(:) after adding pseudo classes.
+
+### 19. What are the different types of Selectors in CSS? 
+**Ans:** there are some different type of selector in CSS
+- Simple selector(select by element, id, class)
+- Combinators selector(base on element)
+-- Descendant selector(space)
+-- Child selector(>)
+-- Adjacent siblings selector(+)
+-- General siblings selector(~)
+- Pseudo-element selector
+- Pseudo-classes selector
+- Attributed base selector
+
