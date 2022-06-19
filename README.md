@@ -109,10 +109,10 @@ Some of the web site we saw that which page we stay if we see navbar and then sh
 **Ans:** there are some different type of selector in CSS
 - Simple selector(select by element, id, class)
 - Combinators selector(base on element)
--- Descendant selector(space)
--- Child selector(>)
--- Adjacent siblings selector(+)
--- General siblings selector(~)
+  - Descendant selector(space)
+  - Child selector(>)
+  - Adjacent siblings selector(+)
+  - General siblings selector(~)
 - Pseudo-element selector
 - Pseudo-classes selector
 - Attributed base selector
