@@ -117,3 +117,30 @@ Some of the web site we saw that which page we stay if we see navbar and then sh
 - Pseudo-classes selector
 - Attributed base selector
 
+### 20. Differences between Class selector from ID selector?
+**Ans:** different between Class selector and ID selector 
+Id is only used when only one id is for the document and style, the other hand class is used for many elements.
+- Id style sheet using style for starting hash(#) and then style element but class style sheet using style for starting dot(.) and then name and given style
+- Then only different is **ID** is unique whole document is only one but **Class** is multiple whole document is same class multiple element use
+
+### 21. What is CSS Specificity?
+**Ans:** Specificity is the algorithm used by browsers to determine the CSS declaration that is the most relevant to an element, which in turn, determines the property value to apply to the element.
+
+### 22. What is a CSS Preprocessor? What are some benefits of Sass?
+**Ans:** A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. A browser can only understand CSS, which at times may not be enough to write clean and reusable rules
+
+Some benefit of Sass
+- Easier to maintain code
+- It will make css dry
+- It will make css more organise
+- It will save our time and so faster
+
+### 23. What is a Pseudo element? Give an example of pseudo element
+**Ans:** pseudo elements are given to specific styles of specific parts of an element.
+Some pseudo element example:
+- ::after
+- ::before
+- ::first-line
+- ::first-letter
+- ::marker
+
