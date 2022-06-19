@@ -75,11 +75,11 @@ Attributes defined by HTML and properties defined by DOM, attribute main role is
 **Ans:** Flex is a one dimensional Layout system. So many items simultaneously stand 
 after one by one in row wise or column wise Flex layout.
 Different between Flex and grid layout system:
-**Grid:**</br>
+**Grid:**\
 - Grid Layout is Two Dimensional Layout
 - Grid Layout is at the same time Row and column using
-- Grid Layout use for Large scale application development.
-**Flex:**</br>
+- Grid Layout use for Large scale application development.\
+**Flex:**\
 - Flex is one dimensional Layout
 - Flex Layout is use one Row wise otherwise column wise
 - Flex Layout is Suitable for small Application
