@@ -16,7 +16,9 @@
 **Ans:** Semantic Tag and its examples:
 Semantic tag means syntax refers to a very easy to understand tag. What is the meaning of this tag? And it is very clearly understandable to machines and humans.
 Some Semantic Tag Examples:
-- Nav tag(<nav></nav>)
+- Nav tag(```sh
+<nav></nav> 
+ ```)
 - Aside tag(<aside></aside>)
 - Mark tag(<mark></mark>)
 - Section tag(<section></section>)
