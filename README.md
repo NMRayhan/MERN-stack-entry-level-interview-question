@@ -78,7 +78,7 @@ Different between Flex and grid layout system:</br>
 **Grid:**</br>
 - Grid Layout is Two Dimensional Layout
 - Grid Layout is at the same time Row and column using
-- Grid Layout use for Large scale application development
+- Grid Layout use for Large scale application development. </br>
 **Flex:**</br>
 - Flex is one dimensional Layout
 - Flex Layout is use one Row wise otherwise column wise
