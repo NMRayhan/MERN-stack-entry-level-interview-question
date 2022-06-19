@@ -11,3 +11,18 @@
 | It’s not possible to drag and drop | It’s possible to use drag and drop |
 | User Geolocation access not possible this version | Easy to access user Geolocation |
 | Not allow to run javascript in browser | Allow to run javascript in browser |
+
+### 2. What are semantic tags in html? Give me some examples?
+**Ans:** Semantic Tag and its examples:
+Semantic tag means syntax refers to a very easy to understand tag. What is the meaning of this tag? And it is very clearly understandable to machines and humans.
+Some Semantic Tag Examples:
+- Nav tag(<nav></nav>)
+- Aside tag(<aside></aside>)
+- Mark tag(<mark></mark>)
+- Section tag(<section></section>)
+- Summary tag(<summary></summary>)
+- Article tag(<article></article>)
+- Footer tag(<footer></footer>)
+- Header tag(<header></header>)
+- Figure tag(<figure></figure>), etc.
+
