@@ -144,3 +144,22 @@ Some pseudo element example:
 - ::first-letter
 - ::marker
 
+### 23. How will you use media queries to make a website responsive?
+**Ans:** media queries to make the website responsive. We show different device to screen size for example if we develop a website for desktop version its any section 300px card row wise three card showing but if we change the device screen size like mobile this time 300px three card not showing in same row and it’s time arrive media Queries
+
+### 24. How will you make font size responsive?
+**Ans:** given media queries reset font size to responsive another way to make font size responsive to view high or viewWidth on this font size.
+Basically the second one is more effective. It changes the font size and the screen size.
+
+### 25. What are some CSS Measuring units? Which one will you use?
+**Ans:** we can use css measuring units most like px(pixel), cm(centimeter), mm(millimeter), pt(picas) and pt(point), etc. to use absolute measurement. 
+Another measurement unit use for relative length like em(Relative to the font-size of the element), rem(relative to font-size of root element), vw(Relative to 1% of the width of the viewport), vh(Relative to 1% of the height of the viewport) and %(related to parent element)
+
+### 26. Difference between transition and transform?
+**Ans:** difference between CSS Transform and CSS Transition? The Transform property in CSS moves or modifies the appearance of an element, whereas the Transition property seamlessly and gently transitions the element from one state to another.
+
+### 27. How will you horizontally and vertically center a div inside a div?
+**Ans:** So many options we can use horizontally and vertically center a div inside a div but most of the time using flex display in parent element within justify-content center and align-items center create center a div inside a div.
+
+### 28. What does * { box-sizing: border-box; } do? What are its advantages?
+**Ans:** It makes every element in the document include the padding and border in the element’s inner dimension for the height and width computation.
