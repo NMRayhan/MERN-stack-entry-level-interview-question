@@ -85,3 +85,10 @@ Different between Flex and grid layout system:</br>
 - Flex Layout is use one Row wise otherwise column wise
 - Flex Layout is Suitable for small Application
 
+### 16. Explain CSS position property? What are some differences between absolute position and relative position?
+**Ans:** CSS Position property defines HTML Element in position of a document, it’s over left, right, top, bottom, middle and anywhere in the document.
+
+**absolute vs relative:** 
+- Relative position element taking space but absolute position not taking space
+- Relative position not changing parent layout but absolute position changing parent layput
+- Relative position no need to any parent element but absolute position need to be any element in relative parent.
