@@ -43,4 +43,16 @@ we can add one or more meta tags in html documents, we can use our Key words, de
 
 ### 6. Difference between strong, b, em, i?
 **Ans:** strong tag use for any content is specific for important in this document, b is without important text content is represent bold, ```<em>```for tag semantically emphasises on the important word or section of words while ```<i>``` tag is just offset text conventionally styled in italic to show alternative mood or voice.
-  
+
+### 7. What are properties and attributes in HTML?
+**Ans:** Attributes define HTML code and properties are created while html code rendering browser and its create DOM(Document object Model) tree and create nodes in elements it’s properties.
+Attributes defined by HTML and properties defined by DOM, attribute main role is initialise the properties, if properties initialise done then attribute main role is complete, attribute value is no change but properties value is changable.
+
+### 8. What is a Viewport?
+**Ans:** Viewport is a HTML Viewing area in Device Screen, it’s mobile, desktop, laptop, tab screen, etc. viewport is make sure a whole html document is showing the user display.
+
+### 9. Have you used Audio and Video tags? How do they work?
+**Ans:** Yes, we use this Audio and video tag in our html file. Audio and video tag has an ending tag present. Audio and video tag has nested with source tag if we provide any multimedia link with source then audio and video play this source multimedia in browser.
+
+### 10. What is hyperlink in html? What tag and attribute will you use for hyperlink?
+**Ans:** Hyperlink in html is href. Its use for anchor tag ```<a href=”Link”>content</a>```. Hyperlink use for any kind of linking, linked navigation, reference, etc.
