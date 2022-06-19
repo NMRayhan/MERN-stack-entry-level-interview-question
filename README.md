@@ -2,11 +2,12 @@
 ## HTML Question
 ### 1.What are the differences between html4 and html5? 
 **Ans:** Different between HTML4 & HTML5.
-| Plugin | README |
+| **HTML4** | **HTML5** |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Html 4 is not a mobile friendly | Html5 is mobile friendly |
+| Html4 is older version of html | Html5 is modern version of html |
+| It is not supported any audio or video without flash player | It is supported to audio and video using audio and video tag and it’s control |
+| Document declaration is to complicated and log statement | Document declaration is vary easy and to short |
+| It’s not possible to drag and drop | It’s possible to use drag and drop |
+| User Geolocation access not possible this version | Easy to access user Geolocation |
+| Not allow to run javascript in browser | Allow to run javascript in browser |
