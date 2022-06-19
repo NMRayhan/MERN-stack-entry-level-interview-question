@@ -497,7 +497,7 @@ The React useState Hook allows us to track state in a function component. State 
 
 ### 97. What is the purpose of a custom hook? How will you create a custom hook? Give us an example.
 **Ans:** Custom hook use for reducing the use of code reusability. Custom Hook is a JavaScript function which we create by ourselves, when we want to share logic between other JavaScript functions. It allows to reuse some pieces of code in several parts of the react app.
-**Here is and Example of Custom hook:**
+**Here is and Example of Custom hook:**</br>
 **useFetch.js**
 ```
 import { useState, useEffect } from "react";
