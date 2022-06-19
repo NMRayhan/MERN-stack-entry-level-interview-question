@@ -40,10 +40,7 @@ we can add one or more meta tags in html documents, we can use our Key words, de
 ### 5. What is the difference between inline, inline-block, and block?
 **Ans:** block level elements are forced line break, inline elements are not to force line break; it uses her own content, inline-block elements left and right padding and margin support. Block level elements have no top and bottom padding or margin.
 
+
 ### 6. Difference between strong, b, em, i?
-**Ans:** strong tag use for any content is specific for important in this document, b is without important text content is represent bold, <em>for tag semantically emphasises on the important word or section of words while <i> tag is just offset text conventionally styled in italic to show alternative mood or voice.
-
-### 7. What are properties and attributes in HTML?
-**Ans:** Attributes define HTML code and properties are created while html code rendering browser and its create DOM(Document object Model) tree and create nodes in elements it’s properties.
-Attributes defined by HTML and properties defined by DOM, attribute main role is initialise the properties, if properties initialise done then attribute main role is complete, attribute value is no change but properties value is changable.
-
+**Ans:** strong tag use for any content is specific for important in this document, b is without important text content is represent bold, ```sh<em>```for tag semantically emphasises on the important word or section of words while tag is just offset text conventionally styled in italic to show alternative mood or voice.
+  
