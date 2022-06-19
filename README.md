@@ -42,5 +42,5 @@ we can add one or more meta tags in html documents, we can use our Key words, de
 
 
 ### 6. Difference between strong, b, em, i?
-**Ans:** strong tag use for any content is specific for important in this document, b is without important text content is represent bold, ```sh<em>```for tag semantically emphasises on the important word or section of words while tag is just offset text conventionally styled in italic to show alternative mood or voice.
+**Ans:** strong tag use for any content is specific for important in this document, b is without important text content is represent bold, ```<em>```for tag semantically emphasises on the important word or section of words while ```<i>``` tag is just offset text conventionally styled in italic to show alternative mood or voice.
   
