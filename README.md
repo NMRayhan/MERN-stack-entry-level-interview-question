@@ -105,7 +105,7 @@ Some of the web site we saw that which page we stay if we see navbar and then sh
 ### 19 What is pseudo-class? 
 **Ans:** CSS pseudo-class is a selector, only when the selector meets a certain condition. It’s starting colon(:) after adding pseudo classes.
 
-### 19. What are the different types of Selectors in CSS? 
+### 20. What are the different types of Selectors in CSS? 
 **Ans:** there are some different type of selector in CSS
 - Simple selector(select by element, id, class)
 - Combinators selector(base on element)
@@ -117,16 +117,16 @@ Some of the web site we saw that which page we stay if we see navbar and then sh
 - Pseudo-classes selector
 - Attributed base selector
 
-### 20. Differences between Class selector from ID selector?
+### 21. Differences between Class selector from ID selector?
 **Ans:** different between Class selector and ID selector 
 Id is only used when only one id is for the document and style, the other hand class is used for many elements.
 - Id style sheet using style for starting hash(#) and then style element but class style sheet using style for starting dot(.) and then name and given style
 - Then only different is **ID** is unique whole document is only one but **Class** is multiple whole document is same class multiple element use
 
-### 21. What is CSS Specificity?
+### 22. What is CSS Specificity?
 **Ans:** Specificity is the algorithm used by browsers to determine the CSS declaration that is the most relevant to an element, which in turn, determines the property value to apply to the element.
 
-### 22. What is a CSS Preprocessor? What are some benefits of Sass?
+### 23. What is a CSS Preprocessor? What are some benefits of Sass?
 **Ans:** A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. A browser can only understand CSS, which at times may not be enough to write clean and reusable rules
 
 Some benefit of Sass
@@ -135,7 +135,7 @@ Some benefit of Sass
 - It will make css more organise
 - It will save our time and so faster
 
-### 23. What is a Pseudo element? Give an example of pseudo element
+### 24. What is a Pseudo element? Give an example of pseudo element
 **Ans:** pseudo elements are given to specific styles of specific parts of an element.
 Some pseudo element example:
 - ::after
@@ -144,22 +144,31 @@ Some pseudo element example:
 - ::first-letter
 - ::marker
 
-### 23. How will you use media queries to make a website responsive?
+### 25. How will you use media queries to make a website responsive?
 **Ans:** media queries to make the website responsive. We show different device to screen size for example if we develop a website for desktop version its any section 300px card row wise three card showing but if we change the device screen size like mobile this time 300px three card not showing in same row and it’s time arrive media Queries
 
-### 24. How will you make font size responsive?
+### 26. How will you make font size responsive?
 **Ans:** given media queries reset font size to responsive another way to make font size responsive to view high or viewWidth on this font size.
 Basically the second one is more effective. It changes the font size and the screen size.
 
-### 25. What are some CSS Measuring units? Which one will you use?
+### 27. What are some CSS Measuring units? Which one will you use?
 **Ans:** we can use css measuring units most like px(pixel), cm(centimeter), mm(millimeter), pt(picas) and pt(point), etc. to use absolute measurement. 
 Another measurement unit use for relative length like em(Relative to the font-size of the element), rem(relative to font-size of root element), vw(Relative to 1% of the width of the viewport), vh(Relative to 1% of the height of the viewport) and %(related to parent element)
 
-### 26. Difference between transition and transform?
+### 28. Difference between transition and transform?
 **Ans:** difference between CSS Transform and CSS Transition? The Transform property in CSS moves or modifies the appearance of an element, whereas the Transition property seamlessly and gently transitions the element from one state to another.
 
-### 27. How will you horizontally and vertically center a div inside a div?
+### 29. How will you horizontally and vertically center a div inside a div?
 **Ans:** So many options we can use horizontally and vertically center a div inside a div but most of the time using flex display in parent element within justify-content center and align-items center create center a div inside a div.
 
-### 28. What does * { box-sizing: border-box; } do? What are its advantages?
+### 30. What does * { box-sizing: border-box; } do? What are its advantages?
 **Ans:** It makes every element in the document include the padding and border in the element’s inner dimension for the height and width computation.
+
+### 31. What is the universal selector in CSS?
+Ans: The universal selector matches the name of any of the element types instead of selecting elements of a specific type.
+```<style>    
+* {    
+   color: green;    
+   font-size: 20px;    
+}     
+</style>```
