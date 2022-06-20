@@ -255,7 +255,7 @@ We use the event.stopPropagation() method to stop event bubbling.
 **Ans:**
 
 ### 47. Explain hoisting in JavaScript?
-**Ans:** Hoisting is Javascript Default behaviour. If we use any variable without before using declare then Javascript it’s think it’s more closer to use. But variables declare using var, if we use declaration let or const then error showing accordingly reference error or Syntax Error.
+**Ans:** Hoisting is the default behavior of JavaScript where all the variable and function declarations are moved on top. In simple words, we can say that Hoisting is a process in which, irrespective of where the variables and functions are declared, they are moved on top of the scope. The scope can be both local and global.
 
 ### 48. What is a recursive function function
 **Ans:** recursive function is a function which is called by itself repeatedly until it arrives at a result. Recursion is best applied when you need to call the same function repeatedly with different parameters from within a loop.
