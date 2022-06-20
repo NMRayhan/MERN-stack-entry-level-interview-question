@@ -27,11 +27,11 @@ Some Semantic Tag Examples:
 - Figure tag, etc.
 
 ### 3. What is the purpose of Article, div, section, nav, aside?
-**Section:** Section sounds like a div, it’s used for wrapping different content in one section like, img, header, paragraph, anchor, etc. 
-**Div:** div tag is used for styling purposes of HTML documents and we use div for a division of a HTML Document.
-**Article:** The article element represents a section of content that forms an independent part of a document or site; for example, a magazine or newspaper article, or a blog entry.
-**Nav:** nav tag use for website navigation bar where some anchor tag group place for link to one page to another page
-**Aside:** some of the web site aside use for left or right content in main content, also aside represent left bar or right bar or side box in website
+**Section:** Section sounds like a div, it’s used for wrapping different content in one section like, img, header, paragraph, anchor, etc. </br>
+**Div:** div tag is used for styling purposes of HTML documents and we use div for a division of a HTML Document. </br>
+**Article:** The article element represents a section of content that forms an independent part of a document or site; for example, a magazine or newspaper article, or a blog entry.</br>
+**Nav:** nav tag use for website navigation bar where some anchor tag group place for link to one page to another page. </br>
+**Aside:** some of the web site aside use for left or right content in main content, also aside represent left bar or right bar or side box in website. </br>
 
 ### 4. Why will you use Meta tag?
 **Ans:** First of all say meta tag has no closing tag, meta tag carries author name, expiry date, a list of keywords, document author etc.
