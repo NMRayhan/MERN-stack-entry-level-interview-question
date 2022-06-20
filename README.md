@@ -36,6 +36,9 @@ Some Semantic Tag Examples:
 ### 4. Why will you use Meta tag?
 **Ans:** First of all say meta tag has no closing tag, meta tag carries author name, expiry date, a list of keywords, document author etc.
 we can add one or more meta tags in html documents, we can use our Key words, descriptions, etc.
+```
+<meta name = "keywords" content = "HTML, Meta Tags, Metadata" />
+```
 
 ### 5. What is the difference between inline, inline-block, and block?
 **Ans:** block level elements are forced line break, inline elements are not to force line break; it uses her own content, inline-block elements left and right padding and margin support. Block level elements have no top and bottom padding or margin.
