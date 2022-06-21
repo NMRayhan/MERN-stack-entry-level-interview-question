@@ -62,7 +62,8 @@ Attributes defined by HTML and properties defined by DOM, attribute main role is
 
 ### 11. What is the difference between HTML elements and tags?
 **Ans:** technically HTML Element is a collection of HTML tag first part, on the other hand html tag is single element, tag starting with <(angle bracket) and then uppercase letter of meaningful tag. Maximum tag has ending tag, html tag is case insensative.
-
+|**HTML Tag**|**HTML Element**|**HTML Attribute**
+|------|-------|------|
 ### 12. What is charset in html? Why will you use it?
 **Ans:** charset is called HTML Characterset or HTML encoding. It’s use for page content showing properly in HTML document
 
