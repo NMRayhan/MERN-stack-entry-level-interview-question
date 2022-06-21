@@ -160,8 +160,18 @@ Some pseudo element example:
 Basically the second one is more effective. It changes the font size and the screen size.
 
 ### 27. What are some CSS Measuring units? Which one will you use?
-**Ans:** we can use css measuring units most like px(pixel), cm(centimeter), mm(millimeter), pt(picas) and pt(point), etc. to use absolute measurement. 
-Another measurement unit use for relative length like em(Relative to the font-size of the element), rem(relative to font-size of root element), vw(Relative to 1% of the width of the viewport), vh(Relative to 1% of the height of the viewport) and %(related to parent element)
+**Ans:** we can use css measuring units most like 
+- px(pixel), 
+- cm(centimeter), 
+- mm(millimeter), 
+- pt(picas) and 
+- pt(point), etc. to use absolute measurement. </br>
+Another measurement unit use for relative length like 
+- em(Relative to the font-size of the element), 
+- rem(relative to font-size of root element), 
+- vw(Relative to 1% of the width of the viewport), 
+- vh(Relative to 1% of the height of the viewport) and 
+- %(related to parent element)
 
 ### 28. Difference between transition and transform?
 **Ans:** difference between CSS Transform and CSS Transition? The Transform property in CSS moves or modifies the appearance of an element, whereas the Transition property seamlessly and gently transitions the element from one state to another.
