@@ -96,6 +96,7 @@ Different between Flex and grid layout system:</br>
 **Ans:** CSS Position property defines HTML Element in position of a document, it’s over left, right, top, bottom, middle and anywhere in the document.
 
 **absolute vs relative:** 
+- Relative - the element is positioned relative to its normal position. Absolute - the element is positioned absolutely to its first positioned parent
 - Relative position element taking space but absolute position not taking space
 - Relative position not changing parent layout but absolute position changing parent layput
 - Relative position no need to any parent element but absolute position need to be any element in relative parent.
