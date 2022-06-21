@@ -240,7 +240,7 @@ Another case we return something from a function. The same functionality or task
 **Ans:** Actually, functions return one value at a time but if we need to return a different type value, we use Array and this array returns from function.
 
 ### 41. Tell me about bind, call and apply?**
-Ans:** Bind method use for if we need to any object function use to another Object for same purpose this time bind use, 
+**Ans:** Bind method use for if we need to any object function use to another Object for same purpose this time bind use, 
 ```
 const Rayhan={
     id: 121,
