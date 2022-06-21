@@ -64,6 +64,9 @@ Attributes defined by HTML and properties defined by DOM, attribute main role is
 **Ans:** technically HTML Element is a collection of HTML tag first part, on the other hand html tag is single element, tag starting with <(angle bracket) and then uppercase letter of meaningful tag. Maximum tag has ending tag, html tag is case insensative.
 |**HTML Tag**|**HTML Element**|**HTML Attribute**
 |------|-------|------|
+|HTML tags are used to hold the HTML element.|HTML element holds the content.|HTML attributes are used to describe the characteristic of an HTML element in detail.|
+|HTML tag starts with < and ends with > |Whatever written within a HTML tag are HTML elements.|HTML attributes are found only in the starting tag.|
+|HTML tags are almost like keywords where every single tag has unique meaning.|HTML elements specifies the general content.|HTML attributes specify various additional properties to the existing HTML element.|
 ### 12. What is charset in html? Why will you use it?
 **Ans:** charset is called HTML Characterset or HTML encoding. It’s use for page content showing properly in HTML document
 
