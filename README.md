@@ -184,6 +184,7 @@ Another measurement unit use for relative length like:-
 - Using the Padding Property,
 - Display Grid or Flex property,
 - inner div width % and margin auto,
+
 but most of the time using flex display in parent element within justify-content center and align-items center create center a div inside a div.
 
 ### 30. What does * { box-sizing: border-box; } do? What are its advantages?
@@ -205,7 +206,7 @@ but most of the time using flex display in parent element within justify-content
 **Ans:** at first javascript is a high level language and interpreted language its need to compile line by line. 
 Js code follow some step to execute 
 - **Parse code:** this step js code parse line by line and check syntax error and if no error then next step execute
-- **AST:** if no error in parse step and this step code create structure called Abstract syntax tree 
+- **AST:** if no error in parse step and this step code create structure called **Abstract syntax tree**
 - **Conversion to Machine code:** AST structure create then js code convert to machine code and machine only understand machine language
 - **Machine code:** when machine code is converted successfully by bytecode and machine code sent to the system and finally executes the machine code by system.
 
