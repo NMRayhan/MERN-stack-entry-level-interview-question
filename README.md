@@ -268,7 +268,7 @@ Apply method Exactly same as the call method takes arguments separately. The app
 **Ans:** ``` bind() ``` method is one argument, ``` call() ``` method is multiple argument and Apply method is same as ``` call() ``` method but different is ``` apply() ``` method taking argument in an Array.
 
 ### 43. What is a Closure in JavaScript? How does it work?
-**Ans:** A closure is the combination of a function bundled together with references to its surrounding state. In other words, a closure gives access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+**Ans:** A closure is the combination of a function bundled together with references to its surrounding state. In other words, Closure means that an inner function always has access to the vars and parameters of its outer function, even after the outer function has returned. In JavaScript, closures are created every time a function is created, at function creation time.
 
 ### 44. What does the “this” keyword indicate in JavaScript?
 **Ans:** In JavaScript, this keyword refers to an object. Which object depends on how this is being invoked.this is not a variable. It is a keyword. We cannot change the value of this.
