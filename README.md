@@ -166,7 +166,9 @@ Basically the second one is more effective. It changes the font size and the scr
 - mm(millimeter), 
 - pt(picas) and 
 - pt(point), etc. to use absolute measurement. </br>
-Another measurement unit use for relative length like 
+
+Another measurement unit use for relative length like:-
+
 - em(Relative to the font-size of the element), 
 - rem(relative to font-size of root element), 
 - vw(Relative to 1% of the width of the viewport), 
@@ -177,7 +179,12 @@ Another measurement unit use for relative length like
 **Ans:** difference between CSS Transform and CSS Transition? The Transform property in CSS moves or modifies the appearance of an element, whereas the Transition property seamlessly and gently transitions the element from one state to another.
 
 ### 29. How will you horizontally and vertically center a div inside a div?
-**Ans:** So many options we can use horizontally and vertically center a div inside a div but most of the time using flex display in parent element within justify-content center and align-items center create center a div inside a div.
+**Ans:** So many options we can use horizontally and vertically center a div inside a div like:
+- Using the Position, Top, Left, and Margin Properties,
+- Using the Padding Property,
+- Display Grid or Flex property,
+- inner div width % and margin auto,
+but most of the time using flex display in parent element within justify-content center and align-items center create center a div inside a div.
 
 ### 30. What does * { box-sizing: border-box; } do? What are its advantages?
 **Ans:** It makes every element in the document include the padding and border in the element’s inner dimension for the height and width computation.
