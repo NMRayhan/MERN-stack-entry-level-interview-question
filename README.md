@@ -108,7 +108,7 @@ Every box is composed of four parts (or areas), defined by their respective edge
 
 ### 18. What is a Hover effect? What is the purpose of the active class?
 **Ans:** Hover effect is pseudo class, it is used for if we mouse over any element then we customisable change showing this element and its call hover effect.
-The ``` :active ``` selector is used to select and style the active link. A link becomes active when you click on it.
+The ``` :active ``` selector is used to select and style the active link. A link becomes active when you click on it. The ``` :active ``` selector can be used on all elements, not only links.
 
 ### 19 What is pseudo-class? 
 **Ans:** CSS pseudo-class is a selector, only when the selector meets a certain condition. It’s starting colon(:) after adding pseudo classes.
