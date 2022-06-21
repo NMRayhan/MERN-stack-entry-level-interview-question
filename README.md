@@ -680,7 +680,7 @@ export default App;
 **Ans:** npm is used for Node package manager. It will help Nodejs package install or uninstall and fix any error with nodeModules.
 
 ### 117. What is the purpose of a database?
-**Ans:** In two types of websites one is static website another is dynamic website, static website most of the time no need any database but dynamic website is needed to Database for showing large scale content.
+**Ans:** In two types of websites one is static website another is dynamic website, static website most of the time no need any database but dynamic website is needed to Database for showing large scale content. database, also called electronic database, any collection of data, or information, that is specially organized for rapid search and retrieval by a computer. Databases are structured to facilitate the storage, retrieval, modification, and deletion of data in conjunction with various data-processing operations.
 
 ### 118. Difference between sql vs nosql?
 Ans: main difference of SQL vs NoSQL:
