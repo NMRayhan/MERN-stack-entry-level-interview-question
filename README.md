@@ -265,7 +265,7 @@ The call() method is a predefined JavaScript method. It can be used to invoke (c
 Apply method Exactly same as the call method takes arguments separately. The apply() method takes arguments as an array 
 
 ### 42. How many arguments does call apply bind take?
-**Ans:** bind method is one argument, call method is multiple argument and Apply method is same as call method but different is apply method taking argument in an Array.
+**Ans:** ``` bind() ``` method is one argument, ``` call() ``` method is multiple argument and Apply method is same as ``` call() ``` method but different is ``` apply() ``` method taking argument in an Array.
 
 ### 43. What is a Closure in JavaScript? How does it work?
 **Ans:** A closure is the combination of a function bundled together with references to its surrounding state. In other words, a closure gives access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
