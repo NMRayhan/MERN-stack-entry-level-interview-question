@@ -591,6 +591,41 @@ Purpose of using Redux:-
 ### 104. What are Higher order components? Give us an example.
 **Ans:** A higher-order component (HOC) is an advanced technique in React for reusing component logic. HOCs are not part of the React API, per se. They are a pattern that emerges from React’s compositional nature.
 a higher-order component is a function that takes a component and returns a new component.
+**HOC.js**
+```
+import React, {Component} from 'react';  
+  
+export default function Hoc(HocComponent){  
+    return class extends Component{  
+        render(){  
+            return (  
+                <div>  
+                    <HocComponent></HocComponent>  
+                </div>  
+  
+            );  
+        }  
+    }   
+}  
+```
+**App.js**
+```
+import React, { Component } from 'react';  
+import Hoc from './HOC';  
+  
+class App extends Component {  
+  render() {  
+    return (  
+      <div>  
+        <h2>HOC Example</h2>  
+        JavaTpoint provides best CS tutorials.  
+      </div>  
+    )  
+  }  
+}  
+App = Hoc(App);  
+export default App;  
+```
 
 ### 105. Is there any reason to return something from a UseEffect hook?
 **Ans:** The return function is the cleanup function, or when the user leaves the page and the component will unmount. The array is the last part, and it is where you put the states that will update throughout the component's lifecycle.
