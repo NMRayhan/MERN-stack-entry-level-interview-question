@@ -720,6 +720,6 @@ This occurs when a hacker floods our network with traffic to ultimately disrupt 
 **Ans:** Webpack is a tool that lets you compile JavaScript modules, also known as module bundler. Given a large number of files, it generates a single file (or a few files) that run your app.
 
 ### 128. What can do componentDidMount() ?
-**Ans:** first react render complete then if we need to change state then call this react life cycle method and it's call componentDidMount().
+**Ans:** first react render complete then if we need to change state then call this react life cycle method and it's call componentDidMount(). if we call this life cycle method and react re-render this class component and change the state.
 
 
