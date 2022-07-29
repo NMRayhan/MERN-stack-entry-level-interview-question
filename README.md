@@ -676,7 +676,7 @@ export default App;
 ### 115. NodeJs Blocking or NonBlocking?
 **Ans:** Node. js is based on an event-driven non-blocking I/O model.
 
-### 116. What is Npm?
+### 116. What is npm?
 **Ans:** npm is used for Node package manager. It will help Nodejs package install or uninstall and fix any error with nodeModules.
 
 ### 117. What is the purpose of a database?
@@ -749,6 +749,7 @@ React has four built-in methods that gets called, in this order, when mounting a
 ```getDerivedStateFromProps()```
 ```render()```
 ```componentDidMount()```
+
 The ```render()``` method is required and will always be called, the others are optional and will be called if you define them.
 
 **Updating**
@@ -761,6 +762,7 @@ React has five built-in methods that gets called, in this order, when a componen
 ```render()```
 ```getSnapshotBeforeUpdate()```
 ```componentDidUpdate()```
+
 The ```render()``` method is required and will always be called, the others are optional and will be called if you define them.
 **componentDidUpdate**
 The componentDidUpdate method is called after the component is updated in the DOM.
@@ -769,4 +771,8 @@ The componentDidUpdate method is called after the component is updated in the DO
 The next phase in the lifecycle is when a component is removed from the DOM, or unmounting as React likes to call it.
 React has only one built-in method that gets called when a component is unmounted:
 ```componentWillUnmount()```
+
 The componentWillUnmount method is called when the component is about to be removed from the DOM.
+
+
+### 132. 
