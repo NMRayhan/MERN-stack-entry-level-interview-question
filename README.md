@@ -722,4 +722,18 @@ This occurs when a hacker floods our network with traffic to ultimately disrupt 
 ### 128. What can do componentDidMount() ?
 **Ans:** first react render complete then if we need to change state then call this react life cycle method and it's call componentDidMount(). if we call this life cycle method and react re-render this class component and change the state.
 
+### 129. What is Statefull Component?
+**Ans:** In React, a stateful component is a component that holds some state. Stateless components, by contrast, have no state. Note that both types of components can use props. In the example, there are two React components. The Store component is stateful and the Week component is stateless.
 
+### 130. What is Controlled and uncontrolled Component?
+**Ans:** 
+**Controlled component:** Form data are handled by a React component. A Controlled Component is one that takes its current value through props and notifies changes through callbacks like onChange. A parent component "controls" it by handling the callback and managing its own state and passing the new values as props to the controlled component. You could also call this a "dumb component".
+**Uncontrolled components:** form data are handled by the DOM itself. A Uncontrolled Component is one that stores its own state internally, and you query the DOM using a ref to find its current value when you need it. This is a bit more like traditional HTML.
+```
+// Controlled:
+<input type="text" value={value} onChange={handleChange} />
+
+// Uncontrolled:
+<input type="text" defaultValue="foo" ref={inputRef} />
+// Use `inputRef.current.value` to read the current value of <input>
+```
