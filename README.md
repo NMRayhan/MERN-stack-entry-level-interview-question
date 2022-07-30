@@ -800,7 +800,7 @@ SDLC Step is
 4. Verification/Testing
 5. Maintainance
 
-### 134 Waterfall model and Agile Model?
+### 134. Waterfall model and Agile Model?
 **Ans:** 
 **Waterfall Model**
 ধরুন আমাদের রিকোয়ামেন্টস ফিক্সড। আগামী ৪/৫ বছরেও রিকোয়ারমেন্ট চেইঞ্জ হবে না। আমরা এই রিকোয়ারমেন্ট অনুসারে প্রোডাক্ট বানাবো। এরপর ৪/৫ বছর পর যদি প্রয়োজন হয় আপডেট করবো। এই ধরণের প্রজেক্টের ক্ষেত্রে ওয়াটার ফল মডেল খুবই কার্যকরী। 
