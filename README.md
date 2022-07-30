@@ -775,4 +775,17 @@ React has only one built-in method that gets called when a component is unmounte
 The componentWillUnmount method is called when the component is about to be removed from the DOM.
 
 
-### 132. 
+### 132. Functional vs Non Functional Requirements?
+**Ans:** **Functional Requirements:** These are the requirements that the end user specifically demands as basic facilities that the system should offer. All these functionalities need to be necessarily incorporated into the system as a part of the contract. These are represented or stated in the form of input to be given to the system, the operation performed and the output expected.
+
+**Non-functional requirements:** These are basically the quality constraints that the system must satisfy according to the project contract. The priority or extent to which these factors are implemented varies from one project to other. They are also called non-behavioral requirements.
+They basically deal with issues like:
+
+- Portability
+- Security
+- Maintainability
+- Reliability
+- Scalability
+- Performance
+- Reusability
+- Flexibility
