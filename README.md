@@ -789,3 +789,13 @@ They basically deal with issues like:
 - Performance
 - Reusability
 - Flexibility
+
+### 133. What is SDLC?
+**Ans:** A software life cycle model (also termed process model) is a pictorial and diagrammatic representation of the software life cycle.
+
+SDLC Step is
+1. Requirement Analysis
+2. Designing
+3. Implementation
+4. Verification/Testing
+5. Maintainance
