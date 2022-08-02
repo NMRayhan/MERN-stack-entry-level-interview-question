@@ -819,3 +819,21 @@ SDLC Step is
 **Ans:** An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.
 
 <img src="https://www.tutorialspoint.com/operating_system/images/conceptual_view.jpg" alt="" />
+
+### 136. What is Kernel and it's function and type of kernel?
+**Ans:** In computer science, **Kernel is a computer program that is a core or heart of an operating system.** It acts as a bridge between applications and data processing done at the hardware level. It is the central component of an OS.
+
+**function of Kernel:**
+
+- Device Management
+- Memory Management
+- Resource Management
+- Accessing Computer Resources
+
+**Type of Kernel** 
+
+1. Microkernal Kernel
+2. Monolithic Kernel
+3. Hybrid Kernel
+4. Nano Kernel
+5. Exo-Kernel
