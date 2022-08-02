@@ -814,3 +814,7 @@ SDLC Step is
 **Agile Model**
 <img src="https://github.com/mrhm-dev/full-stack-army/blob/master/class-overview/Lecture-01/agile-model-of-se.png?raw=true" alt="Agile Model"/>
 উপরের মডেলে যে সমস্যার কথা আমরা বলেছিলাম সে সমস্যা থেকে পরিত্রাণের উপায় হলো Agile Model। এখন প্রশ্ন হলো What is Agile Model. Agile model হলো এক ধরণের Water Fall Model. ওয়াটার ফল মডেলে আমরা যে কাজটা করি তা একটা লং টার্মের জন্য। ২/৩ বছরের জন্য। অপরদিকে Agile model হলো ১৫ দিন বা ৭ দিনের জন্য একটা ওয়াটার ফল মডেল। ৭ দিনের জন্য একটা রিকোয়ারমেন্ট থাকবে। সেই অনুযায়ী ডিজাইন, ইমপ্লিমেন্টেশন, ভেরিফিকেশন হবে। পরবর্তী ৭ দিন অন্য রিকোয়ারমেন্ট নিয়ে কাজ হবে। এভাবে চক্রটা চলতে থাকবে। যেমন আমাদের অ্যাপ্লিকেশনে ধরেন আমরা প্রথম ১৫ দিন লোকাল অথেনটিকেশন নিয়ে কাজ করবো। পরবর্তী ১৫ দিন রোল বেইজড এক্সেস কন্ট্রোল নিয়ে কাজ করবো। এভাবে চলতে থাকবে। এখন দুই মাস পর যদি ক্লায়েন্ট এসে বলে অথেনটিকেশনে ইমেইল দিয়ে করা হইসে। এখন সে ফোন নাম্বারও অ্যাড করতে চাইছে। যেহেতু আমরা আলাদাভাবেই অথেনটিকেশন নিয়ে কাজ করেছিলাম সুতরাং শুধু সেটাই চেইঞ্জ করলে হবে। বাকি কাজের উপর কোনো সমস্যা আসবে না। জাস্ট ওয়াটার ফল মডেলই একটা নির্দিষ্ট শর্ট টাইম পর পর।
+
+### 135. What is Operating System?
+**Ans:** An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.
+<img src="https://www.tutorialspoint.com/operating_system/images/conceptual_view.jpg" alt="" />
